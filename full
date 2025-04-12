@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/datlk1/anti-afk/refs/heads/main/by%20datdznosix"))();loadstring(game:HttpGet("https://raw.githubusercontent.com/DaRealGeo/roblox/master/rooms-autowalk"))();game.StarterGui:SetCore("SendNotification", {Title = "Thông báo"; Text = "Script by datdznosix"; Duration = 5})
